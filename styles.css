@@ -1,0 +1,43 @@
+body{
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+}
+
+.header,
+.about,
+.copyright{
+    background-color: #1F2937;
+}
+.hero{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+#logo-text{
+    font-size: 24px;
+    color: #F9FAF8
+}
+#white-text{
+    font-size: 18px;
+    color: #e5e7eb
+}
+#header-text{
+    font-size: 36px;
+    color: #1F2937;
+    weight: 900;
+}
+.quote-text{
+    font-size: 36px;
+    color: #1F2937;
+    weight: 300;
+}
+
+.quote-section{
+    background-color: #e5e7eb
+}
+.action-box{
+    background-color: #3882f6;
+}
+.action-button{
+    background-color: #3882f6;
+}
