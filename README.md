@@ -1,1 +1,1 @@
-# landing-page
+This is the Landing Page project in the Flexbox Unit of The Odin Project. Pictures are not mine and were downloaded from unsplash.com.
